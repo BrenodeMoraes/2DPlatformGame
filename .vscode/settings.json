@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "2dPlatform.sln"
+    "dotnet.defaultSolution": "2dPlatformGame.sln"
 }
